@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am maicodon on github.
+  * I am maicodon (https://keybase.io/maicodon) on keybase.
+  * I have a public key ASDyqvupM6r188oEAGTKIOGKUL58MRqZbStXgzTrCRorvgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f2aafba933aaf5f3ca040064ca20e18a50be7c311a996d2b578334eb091a2bbe0a",
+      "host": "keybase.io",
+      "kid": "0120f2aafba933aaf5f3ca040064ca20e18a50be7c311a996d2b578334eb091a2bbe0a",
+      "uid": "9639d0979252ecdab6f7f756cc109519",
+      "username": "maicodon"
+    },
+    "merkle_root": {
+      "ctime": 1568217350,
+      "hash": "a49ff3b486a694fa95af8570bfc4a8b29cdfcb3e28ba14a49c3747496edfa9e4634393cab12d8ec83ec96e3970a5c70d24d31808c63b4891f66532c3c88ab114",
+      "hash_meta": "92525eeb280f90147aed2e10cfeb1431a1e3c9e99b8fb3ae82c139d48eff42c5",
+      "seqno": 6753012
+    },
+    "service": {
+      "entropy": "v+P55qqj0N82E5fPzUAH7MDm",
+      "name": "github",
+      "username": "maicodon"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568217358,
+  "expire_in": 504576000,
+  "prev": "d45307171cfab41c4ece6a57af869344ecf975377c961c46403ecf8272b355fa",
+  "seqno": 8,
+  "tag": "signature"
+}
+```
+
+with the key [ASDyqvupM6r188oEAGTKIOGKUL58MRqZbStXgzTrCRorvgo](https://keybase.io/maicodon), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg8qr7qTOq9fPKBABkyiDhilC+fDEamW0rV4M06wkaK74Kp3BheWxvYWTESpcCCMQg1FMHFxz6tBxOzmpXr4aTROz5dTd8lhxGQD7PgnKzVfrEIACNGPpaLfs8H4VgsqNSCAorrGMgsdCr4m2UeNFBYMieAgHCo3NpZ8RASkNBUTjM9OSCCv5QBnNnYUJp1Im1mk4XYcQH+Q2MmlZCBeSOj7/6Fiwn2PJyeScmiIKms/hxfCgUiYwANgsgC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJbBjiFGsakuL3XEAymDRl2mUE+MllGo2f3+QivqanA2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/maicodon
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id maicodon
+```
